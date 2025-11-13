@@ -47,10 +47,10 @@ const Index = () => {
               <Icon name="Heart" className="text-[#FF6B9D] animate-pulse" size={32} />
             </DialogTitle>
             <DialogDescription className="font-montserrat text-2xl text-center text-[#FF6B9D] pt-4 leading-relaxed">
-              Настя, я тебя люблю! 💕
+              Настя Останина, ты мне нравишься! 💕
               <br />
               <span className="text-3xl font-semibold mt-2 block">
-                Давай встречаться?
+                Го встречаться?
               </span>
             </DialogDescription>
           </DialogHeader>
